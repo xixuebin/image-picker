@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "himobi",
-    "slug": "himobi",
+    "name": "Image Picker",
+    "slug": "image-picker",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
