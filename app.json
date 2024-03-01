@@ -25,6 +25,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "6b64f449-a99a-4bd5-bc9c-67d8d1a6f443"
+      }
+    },
+    "owner": "kevin.xi"
   }
 }
