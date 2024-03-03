@@ -1,4 +1,3 @@
-import { StatusBar } from 'expo-status-bar';
 import { StyleSheet, View, Image , Platform} from 'react-native';
 
 import Button from './components/Button';
